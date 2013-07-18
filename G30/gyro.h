@@ -7,11 +7,11 @@
 
 /*Config Macros   */
 
-#define Gyro_Device_Write_Address  0xAA
+#define Gyro_Device_Write_Address		0xAA
 
-#define  Gyro_Device_Read_Address   0xAA
+#define  Gyro_Device_Read_Address   	0xAA
 
-#define  Gyro_Power_Register       0xAA
+#define  Gyro_Power_Register       		0xAA
 
 typedef struct Gyro_Point {
 unsigned int X;
